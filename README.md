@@ -9,7 +9,7 @@ Skills: C# / .NET CORE / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on CRM system 
 - 🌱 I’m currently learning React 
 - 🤔 I’m looking for help with Event Sourcing  
-- 📫 How to reach me: Telegram @lolik201  
+- 📫 How to reach me: Telegram @lolik201 WhatsApp 89789641833 
 - ⚡ Fun fact: Like to write bots 
 
 
