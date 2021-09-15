@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Max
 #### I am .NET Developer
 Have good knowledges in .NET Core and C#, also develop on JS and learning React in free time.
-Like to work in team
+Like to work in team.
 Not toxic
 
 Skills: C# / .NET CORE / REACT / JS / HTML / CSS
