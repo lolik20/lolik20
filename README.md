@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Max
 #### I am .NET Developer
-Have good knowledges in .NET Core and C#, also develop on JS and learning React in free time.
+Have good knowledges in .NET Core and C#, also develop on Swift and learning SwiftUI in free time.
 Like to work in team.
 Not toxic
 
