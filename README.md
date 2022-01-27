@@ -7,7 +7,7 @@ Not toxic
 Skills: C# / .NET CORE / JS / HTML / CSS
 
 - 🔭 I’m currently working on CRM airport system 
-- 🌱 I’m currently learning RabbitMQ and Message Brokers
+- 🌱 I’m currently learning React and TypeScript
 - 🤔 I’m looking for help with MassTransit  
 - 📫 How to reach me: Telegram @lolik201 WhatsApp 89789641833 
 - ⚡ Fun fact: Like .NET
