@@ -4,7 +4,7 @@ Have good knowledges in .NET Core and C#, also develop on React and learning Rea
 Like to work in team.
 Not toxic
 
-Skills: C# / .NET CORE / JS / HTML / CSS
+Skills: C# / .NET CORE / JS / HTML / CSS / React /
 
 - 🔭 I’m currently working on CRM airport system 
 - 🌱 I’m currently learning React and TypeScript
