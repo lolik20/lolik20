@@ -9,6 +9,5 @@ Experienced in utilizing web3 value converters and other blockchain tools.
 Possesses excellent understanding of Nethereum and web3.js. 
 Skilled in managing complex technical challenges and making strategic decisions to ensure project success.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lolik20&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/lolik20)  
