@@ -8,6 +8,3 @@ Skilled in integrating Solidity contracts on both backend and frontend sides.
 Experienced in utilizing web3 value converters and other blockchain tools. 
 Possesses excellent understanding of Nethereum and web3.js. 
 Skilled in managing complex technical challenges and making strategic decisions to ensure project success.
-
-
-![Profile views](https://gpvc.arturio.dev/lolik20)  
